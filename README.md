@@ -1,5 +1,8 @@
 ### Olá, eu sou o Caique ☕️ 👋
 
+<div align="start">
+<img height="500em" src="https://imgur.com/b1Y9fpy.png"/>  
+</div>
 
 - 💬 Nerd, dreamer and persistent ...
 - 👨🏻‍💻 Full Stack Developer Java Jr ...
@@ -9,7 +12,9 @@
 - 🎮 I love video games ... 
 - 🙂 Pronouns: He/His
 
-<div align="center">
+
+
+<div align="start">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquebatistam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquebatistam&layout=compact&langs_count=7&theme=tokyonight"/>
