@@ -1,6 +1,6 @@
 ### Olá, eu sou o Caique ☕️ 👋
 
-<div align="start">
+<div align="center">
 <img height="500em" src="https://imgur.com/b1Y9fpy.png"/>  
 </div>
 
@@ -10,7 +10,6 @@
 - 🎬 Favorite activity: go to the movie theater ...
 - ☕️ I love coffee
 - 🐶 I love animals ...
-- 🎮 I love video games ... 
 - 🙂 Pronouns: He/His
 
 
